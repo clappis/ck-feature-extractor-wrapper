@@ -7,7 +7,7 @@ Extraction
 #### The extraction is on program level, in other words, this wrapper summarizes the features from each program's function.
 
 
-By default, you can extract all cbench static program features as follow:
+By default, you can extract all static program features used on my research as follow:
 ```
 node index.js
 ```
