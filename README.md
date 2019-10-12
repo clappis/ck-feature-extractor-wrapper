@@ -2,6 +2,8 @@
 
 This project has a dependency to [CK Project](https://github.com/ctuning/ck). The previous CK's installation is expected to run this module.
 
+The programs that were available were extracted from the [Benchmarks repository](https://github.com/clappis/ck-benchmarks).
+
 Extraction
 =============
 #### The extraction is on program level, in other words, this wrapper summarizes the features from each program's function.
